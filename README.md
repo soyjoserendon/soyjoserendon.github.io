@@ -1,2 +1,3 @@
 # soyjoserendon.github.io
-Asesor en Informática y Desarrollo Web
+Diseño web y asesoría en informática.
+https://www.soyjoserendon.com
